@@ -1,5 +1,5 @@
-# Simple-Neural-Network
-This repository contains code of a Neural Network implemented with PyTorch.
+# Chapter 0
+This folder contains code of a Neural Network implemented with PyTorch.
 
 I have used 'Possum Regression' dataset. You can find it with this link: https://www.kaggle.com/datasets/abrambeyer/openintro-possum
 
